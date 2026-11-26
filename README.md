@@ -1,6 +1,8 @@
 # CHRONOLINK STUDIO v1.1.3 🎄
 **Powered by `chronolink` • Created by `INF_Specter`**
 
+> ⚠️ **Early Release Notice:** This application is currently in active development and might not work completely smoothly on every device or setup. Future updates will resolve remaining issues and improve stability—press **`U`** inside the app anytime to install the latest fixes automatically.
+
 ## 🎄 Special Holiday Edition — Christmas HD LEDs
 - **24-Bit TrueColor Chasing Holiday Lights:** Launches by default in **Christmas Edition** with smooth, zero-flicker Ruby Red (`◉`), Emerald Green (`◉`), Champagne Gold (`✦`), and Ice Snowflake (`❄`) LED light strings animating across the top and bottom borders.
 - **Instant Theme Toggle (`[X]`):** Press **`X`** anytime inside the dashboard to switch live between **🎄 Christmas HD LEDs** and **⚡ Neon Cyber HD LEDs**.
