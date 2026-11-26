@@ -2,8 +2,8 @@
 APP_NAME="CHRONOLINK STUDIO"
 ENGINE_NAME="Powered by chronolink"
 AUTHOR="INF_Specter"
-VERSION="v1.1.2"
-U_HOST="https://githubusercontent.com"; U_PATH="INFSpecter/chronolink-studio/main/chronolink_studio.sh"; UPDATE_URL="$U_HOST/$U_PATH"
+VERSION="v1.1.3"
+PROTO="https"; SUB="raw"; DOM="githubusercontent.com"; REPO="INFSpecter/chronolink-studio/main/chronolink_studio.sh"; UPDATE_URL="${PROTO}://${SUB}.${DOM}/${REPO}"
 
 CHRONO="adb shell /data/local/tmp/chronolink"
 APP_DIR="$HOME/.chronolink_studio"
