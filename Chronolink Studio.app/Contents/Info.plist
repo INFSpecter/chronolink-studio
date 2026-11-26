@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://apple.com">
+<plist version="1.0">
+<dict>
+    <key>CFBundleExecutable</key><string>ChronolinkStudio</string>
+    <key>CFBundleIconFile</key><string>AppIcon</string>
+    <key>CFBundleIdentifier</key><string>com.infspecter.chronolinkstudio</string>
+    <key>CFBundleName</key><string>Chronolink Studio</string>
+    <key>CFBundleVersion</key><string>1.1.0</string>
+    <key>CFBundleShortVersionString</key><string>1.1.0</string>
+</dict>
+</plist>
