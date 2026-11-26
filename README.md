@@ -1,4 +1,4 @@
-# CHRONOLINK STUDIO v1.1.0 🎄
+# CHRONOLINK STUDIO v1.1.3 🎄
 **Powered by `chronolink` • Created by `INF_Specter`**
 
 ## 🎄 Special Holiday Edition — Christmas HD LEDs
